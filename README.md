@@ -1,2 +1,2 @@
-# cronos
+# CronOS
 CronOS Job Scheduler System
